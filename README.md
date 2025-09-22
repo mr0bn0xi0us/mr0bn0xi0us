@@ -7,7 +7,6 @@
 ---
    
 ### Social media: 📡    
-Join me on Telegram, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchit-bhandari-3bbb6b195)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mr0bn0xious) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishchit.b)
 
