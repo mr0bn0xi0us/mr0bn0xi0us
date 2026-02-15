@@ -1,5 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=nishchitbh&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-  
+![](https://github-trophies.vercel.app/?username=nishchitbh)  
 ### About Me:    
 
 👋 Hi, I'm Nishchit Bhandari from Madison, South Dakota (USA)! As a passionate enthusiast of Machine Learning (ML) and Deep Learning (DL), I am constantly exploring the frontiers of AI to drive innovation and solve complex problems. With a strong foundation in both theoretical and practical aspects of ML and DL, I enjoy experimenting with new algorithms, developing predictive models, and contributing to open-source projects. I am always eager to collaborate on exciting ML/DL initiatives and to share knowledge with the community. Let's connect and push the boundaries of what's possible in the world of AI!
